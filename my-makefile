@@ -1,0 +1,5 @@
+
+try-aclocal:
+	aclocal
+clean-aclocal:
+	rm -rf autom4te.cache
